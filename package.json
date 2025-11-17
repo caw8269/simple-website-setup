@@ -9,5 +9,10 @@
     },
     "keywords": [],
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "express": "^5.1.0",
+        "kill-port": "^2.0.1",
+        "socket.io": "^4.8.1"
+    }
 }
