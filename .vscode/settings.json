@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "devcontainers"
-    ]
+    ],
+    "files.associations": {
+        "wrangler.json": "jsonc"
+    }
 }
